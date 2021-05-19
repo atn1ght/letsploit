@@ -1,0 +1,1005 @@
+Azure Sphere,Release Notes,11796,CVE-2020-16970,Azure Sphere Unsigned Code Execution Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-16979,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-16979,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-16979,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-16979,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4486733,10612,CVE-2020-16979,Microsoft SharePoint Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-16997,Remote Desktop Protocol Server Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-16998,DirectX Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-16999,Windows WalletService Information Disclosure Vulnerability
+Windows 10 Version 20H2 for ARM64-based Systems,4586781,11802,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 20H2 for ARM64-based Systems,4586781,11802,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17000,Remote Desktop Protocol Client Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17001,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17004,Windows Graphics Component Information Disclosure Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),4484455,10521,CVE-2020-17019,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2020-17020,Microsoft Word Security Feature Bypass Vulnerability
+Microsoft Word 2016 (32-bit edition),4486719,10746,CVE-2020-17020,Microsoft Word Security Feature Bypass Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),4486738,10521,CVE-2020-17020,Microsoft Word Security Feature Bypass Vulnerability
+Microsoft Word 2010 Service Pack 2 (32-bit editions),4486740,10513,CVE-2020-17020,Microsoft Word Security Feature Bypass Vulnerability
+Microsoft Word 2013 RT Service Pack 1,4486730,10606,CVE-2020-17020,Microsoft Word Security Feature Bypass Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17055,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17056,Windows Network File System Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17057,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17068,Windows GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17069,Windows NDIS Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17070,Windows Update Medic Service Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17070,Windows Update Medic Service Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17070,Windows Update Medic Service Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17070,Windows Update Medic Service Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17070,Windows Update Medic Service Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17070,Windows Update Medic Service Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17070,Windows Update Medic Service Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17071,Windows Delivery Optimization Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17073,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17073,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17073,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17073,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17074,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17074,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17074,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17074,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17075,Windows USO Core Worker Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17076,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17076,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17076,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17076,Windows Update Orchestrator Service Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17077,Windows Update Stack Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17077,Windows Update Stack Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17077,Windows Update Stack Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17077,Windows Update Stack Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17077,Windows Update Stack Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17077,Windows Update Stack Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17077,Windows Update Stack Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17087,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server, version 20H2 (Server Core Installation),4586781,11803,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server, version 20H2 (Server Core Installation),4586781,11803,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17088,Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for x64-based Systems,4586781,11768,CVE-2020-17090,Microsoft Defender for Endpoint Security Feature Bypass Vulnerability
+Windows 10 Version 2004 for x64-based Systems,4586781,11768,CVE-2020-17090,Microsoft Defender for Endpoint Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for x64-based Systems,4586793,11569,CVE-2020-17090,Microsoft Defender for Endpoint Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for x64-based Systems,4586793,11569,CVE-2020-17090,Microsoft Defender for Endpoint Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4586785,11498,CVE-2020-17090,Microsoft Defender for Endpoint Security Feature Bypass Vulnerability
+Windows 10 Version 1903 for 32-bit Systems,4586786,11644,CVE-2020-17090,Microsoft Defender for Endpoint Security Feature Bypass Vulnerability
+Windows 10 Version 1903 for 32-bit Systems,4586786,11644,CVE-2020-17090,Microsoft Defender for Endpoint Security Feature Bypass Vulnerability
+Microsoft Visual Studio 2017 version 15.9 (includes 15.0 - 15.8),Release Notes,11600,CVE-2020-17100,Visual Studio Tampering Vulnerability
+Windows 10 Version 20H2 for ARM64-based Systems,4586781,11802,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 20H2 for ARM64-based Systems,4586781,11802,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4586785,11498,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1909 for ARM64-based Systems,4586786,11714,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1909 for ARM64-based Systems,4586786,11714,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,4586787,10735,CVE-2020-17113,Windows Camera Codec Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-1599,Windows Spoofing Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-1599,Windows Spoofing Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16981,Azure Sphere Elevation of Privilege Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16982,Azure Sphere Unsigned Code Execution Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16983,Azure Sphere Tampering Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16984,Azure Sphere Unsigned Code Execution Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16985,Azure Sphere Information Disclosure Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16986,Azure Sphere Denial of Service Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16987,Azure Sphere Unsigned Code Execution Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16988,Azure Sphere Elevation of Privilege Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16989,Azure Sphere Elevation of Privilege Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16990,Azure Sphere Information Disclosure Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16991,Azure Sphere Unsigned Code Execution Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16992,Azure Sphere Elevation of Privilege Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16993,Azure Sphere Elevation of Privilege Vulnerability
+Azure Sphere,Release Notes,11796,CVE-2020-16994,Azure Sphere Unsigned Code Execution Vulnerability
+Microsoft Dynamics 365 (on-premises) version 9.0,4584611,11664,CVE-2020-17005,Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+Microsoft Dynamics CRM 2015 (on-premises) version 7.0,4577009,11665,CVE-2020-17006,Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17007,Windows Error Reporting Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17010,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17010,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17010,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17010,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17011,Windows Port Class Library Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17012,Windows Bind Filter Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17012,Windows Bind Filter Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17012,Windows Bind Filter Driver Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17013,Win32k Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17013,Win32k Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17013,Win32k Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17013,Win32k Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17013,Win32k Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17013,Win32k Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17013,Win32k Information Disclosure Vulnerability
+Windows 10 Version 1903 for 32-bit Systems,4586786,11644,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1903 for 32-bit Systems,4586786,11644,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17014,Windows Print Spooler Elevation of Privilege Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17015,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17015,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17015,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17015,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4486733,10612,CVE-2020-17015,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17016,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17016,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2013 Service Pack 1,4486723,11099,CVE-2020-17016,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17016,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17016,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2010 Service Pack 2,4486706,10495,CVE-2020-17016,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17017,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17017,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17017,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17017,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4486744,10505,CVE-2020-17017,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4486733,10612,CVE-2020-17017,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft Dynamics 365 (on-premises) version 8.2,4584612,11663,CVE-2020-17018,Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+Microsoft Dynamics 365 (on-premises) version 9.0,4584611,11664,CVE-2020-17018,Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+Microsoft Dynamics 365 (on-premises) version 9.0,4584611,11664,CVE-2020-17021,Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17024,Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17025,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17026,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17027,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17028,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17029,Windows Canonical Display Driver Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17030,Windows MSCTF Server Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17030,Windows MSCTF Server Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17030,Windows MSCTF Server Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17030,Windows MSCTF Server Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17030,Windows MSCTF Server Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17030,Windows MSCTF Server Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17030,Windows MSCTF Server Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17031,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17032,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17033,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17034,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17035,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17036,Windows Function Discovery SSDP Provider Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17037,Windows WalletService Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17038,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4586785,11498,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for x64-based Systems,4586793,11569,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for x64-based Systems,4586793,11569,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for x64-based Systems,4586786,11713,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for x64-based Systems,4586786,11713,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 for x64-based Systems,4586787,10735,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4586830,10853,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4586830,10853,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 8.1 for x64-based systems,4586845,10482,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 8.1 for x64-based systems,4586845,10482,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 8.1 for x64-based systems,4586823,10482,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 8.1 for x64-based systems,4586823,10482,CVE-2020-17040,Windows Hyper-V Security Feature Bypass Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17041,Windows Print Configuration Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17042,Windows Print Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17043,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17044,Windows Remote Access Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4586781,11766,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17045,Windows KernelStream Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17046,Windows Error Reporting Denial of Service Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4586781,11800,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4586785,11497,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 for 32-bit Systems,4586787,10729,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17047,Windows Network File System Denial of Service Vulnerability
+ChakraCore,Release Notes,11447,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 20H2 for x64-based Systems,4586781,10724-11800,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 20H2 for x64-based Systems,4586781,10724-11800,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4586785,10724-11497,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1809 for 32-bit Systems,4586793,10724-11568,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1809 for 32-bit Systems,4586793,10724-11568,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1909 for 32-bit Systems,4586786,10724-11712,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1909 for 32-bit Systems,4586786,10724-11712,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4586830,10724-10852,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4586830,10724-10852,CVE-2020-17048,Chakra Scripting Engine Memory Corruption Vulnerability
+Windows Server 2019,4586793,11571,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2019,4586793,11571,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server, version 1909 (Server Core installation),4586786,11715,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server, version 1909 (Server Core installation),4586786,11715,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server, version 2004 (Server Core installation),4586781,11769,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server, version 2004 (Server Core installation),4586781,11769,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2016,4586830,10816,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2016,4586830,10816,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012 R2,4586845,10483,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012 R2,4586845,10483,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012 R2,4586823,10483,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows Server 2012 R2,4586823,10483,CVE-2020-17049,Kerberos KDC Security Feature Bypass Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 10 Version 20H2 for 32-bit Systems,4586781,11801,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4586793,11568,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4586786,11712,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4586830,10852,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586827,10047,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4586805,10047,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586845,10481,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4586823,10481,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586807,9312,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4586817,9312,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2012,4586834,10378,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Windows Server 2012,4586808,10378,CVE-2020-17051,Windows Network File System Remote Code Execution Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for 32-bit Systems,4586785,10486-11497,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4586793,10486-11568,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4586793,10486-11568,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems,4586786,10486-11712,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems,4586786,10486-11712,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 2004 for 32-bit Systems,4586781,10486-11766,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 2004 for 32-bit Systems,4586781,10486-11766,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,4586787,10486-10729,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,4586830,10486-10852,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,4586830,10486-10852,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4586827,10486-10047,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4586827,10486-10047,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4586768,10486-10047,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4586845,10486-10481,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4586845,10486-10481,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012,4586834,10486-10378,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012,4586834,10486-10378,CVE-2020-17052,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for 32-bit Systems,4586785,10486-11497,CVE-2020-17053,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4586793,10486-11568,CVE-2020-17053,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4586793,10486-11568,CVE-2020-17053,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems,4586786,10486-11712,CVE-2020-17053,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems,4586786,10486-11712,CVE-2020-17053,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 2004 for 32-bit Systems,4586781,10486-11766,CVE-2020-17053,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 2004 for 32-bit Systems,4586781,10486-11766,CVE-2020-17053,Internet Explorer Memory Corruption Vulnerability
+ChakraCore,Release Notes,11447,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4586785,10724-11497,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1809 for 32-bit Systems,4586793,10724-11568,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1809 for 32-bit Systems,4586793,10724-11568,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1909 for 32-bit Systems,4586786,10724-11712,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1909 for 32-bit Systems,4586786,10724-11712,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 2004 for 32-bit Systems,4586781,10724-11766,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 2004 for 32-bit Systems,4586781,10724-11766,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,4586787,10724-10729,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4586830,10724-10852,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4586830,10724-10852,CVE-2020-17054,Chakra Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for 32-bit Systems,4586785,10486-11497,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4586793,10486-11568,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4586793,10486-11568,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems,4586786,10486-11712,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems,4586786,10486-11712,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 2004 for 32-bit Systems,4586781,10486-11766,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 2004 for 32-bit Systems,4586781,10486-11766,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,4586787,10486-10729,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,4586830,10486-10852,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,4586830,10486-10852,CVE-2020-17058,Microsoft Browser Memory Corruption Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17060,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17060,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2013 Service Pack 1,4486723,11099,CVE-2020-17060,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17060,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17060,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2010 Service Pack 2,4486706,10495,CVE-2020-17060,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17061,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4486717,10950,CVE-2020-17061,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17061,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Server 2019,4486714,11585,CVE-2020-17061,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4486744,10505,CVE-2020-17061,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4486733,10612,CVE-2020-17061,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2020-17062,Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability
+Microsoft Office 2016 (32-bit edition),4484508,10753,CVE-2020-17062,Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),4484534,10521,CVE-2020-17062,Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability
+Microsoft Office 2013 RT Service Pack 1,4484520,10603,CVE-2020-17062,Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2020-17063,Microsoft Office Online Spoofing Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office Online Server,4486713,11605,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2016 (32-bit edition),4486718,10739,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2016 (32-bit edition),4486722,10753,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4486743,10489,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4486734,10656,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),4486737,10521,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2013 RT Service Pack 1,4486725,10603,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office Web Apps 2013 Service Pack 1,4486727,10608,CVE-2020-17064,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2020-17065,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office Online Server,4486713,11605,CVE-2020-17065,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2016 (32-bit edition),4486718,10739,CVE-2020-17065,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4486743,10489,CVE-2020-17065,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4486734,10656,CVE-2020-17065,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office Web Apps 2013 Service Pack 1,4486727,10608,CVE-2020-17065,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4486743,10489,CVE-2020-17066,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2020-17067,Microsoft Excel Security Feature Bypass Vulnerability
+Microsoft Office 2019 for Mac,Release Notes,11575,CVE-2020-17067,Microsoft Excel Security Feature Bypass Vulnerability
+Microsoft Excel 2016 (32-bit edition),4486718,10739,CVE-2020-17067,Microsoft Excel Security Feature Bypass Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4486743,10489,CVE-2020-17067,Microsoft Excel Security Feature Bypass Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4486734,10656,CVE-2020-17067,Microsoft Excel Security Feature Bypass Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 6,4588741,11789,CVE-2020-17083,Microsoft Exchange Server Remote Code Execution Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 6,4588741,11789,CVE-2020-17083,Microsoft Exchange Server Remote Code Execution Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 6,4588741,11789,CVE-2020-17084,Microsoft Exchange Server Remote Code Execution Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 6,4588741,11789,CVE-2020-17084,Microsoft Exchange Server Remote Code Execution Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 6,4588741,11789,CVE-2020-17085,Microsoft Exchange Server Denial of Service Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 6,4588741,11789,CVE-2020-17085,Microsoft Exchange Server Denial of Service Vulnerability
+Visual Studio Code,Release Notes,11622,CVE-2020-17104,Visual Studio Code JSHint Extension Remote Code Execution Vulnerability

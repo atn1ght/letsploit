@@ -1,0 +1,594 @@
+Microsoft Visual Studio 2019 version 16.8,Release Notes,11809,CVE-2021-1639,Visual Studio Code Remote Code Execution Vulnerability
+Microsoft Visual Studio 2019 version 16.7 (includes 16.0 – 16.6),Release Notes,11785,CVE-2021-1721,.NET Core and Visual Studio Denial of Service Vulnerability
+Microsoft Dynamics NAV 2018,4602915,11746,CVE-2021-1724,Microsoft Dynamics Business Central Cross-site Scripting Vulnerability
+System Center 2019 Operations Manager,4601269,11854,CVE-2021-1728,System Center Operations Manager Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-1731,PFX Encryption Security Feature Bypass Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-1731,PFX Encryption Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-1731,PFX Encryption Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1731,PFX Encryption Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1731,PFX Encryption Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1731,PFX Encryption Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1731,PFX Encryption Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-1732,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1732,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1732,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1732,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1732,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-1732,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-1732,Windows Win32k Elevation of Privilege Vulnerability
+PsExec,Release Notes,11853,CVE-2021-1733,Sysinternals PsExec Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-1734,Windows Remote Procedure Call Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-1698,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-1698,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-1698,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1698,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1698,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1698,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1698,Windows Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-1722,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-25195,Windows PKU2U Elevation of Privilege Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 8,4602269,11857,CVE-2021-24085,Microsoft Exchange Server Spoofing Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 8,4602269,11857,CVE-2021-24085,Microsoft Exchange Server Spoofing Vulnerability
+azure-iot-cli-extension,Pull Request,11851,CVE-2021-24087,Azure IoT CLI extension Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24093,Windows Graphics Component Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24096,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24096,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24096,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24096,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24096,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24096,Windows Kernel Elevation of Privilege Vulnerability
+Microsoft Dynamics 365 (on-premises) version 8.2,4595463,11663,CVE-2021-24101,Microsoft Dataverse Information Disclosure Vulnerability
+Microsoft Dynamics 365 (on-premises) version 9.0,4595460,11664,CVE-2021-24101,Microsoft Dataverse Information Disclosure Vulnerability
+Visual Studio 2019 for Mac,Release Notes,11874,CVE-2021-24112,.NET Core Remote Code Execution Vulnerability
+Visual Studio Code - npm-script Extension,Release Notes,11861,CVE-2021-26700,Visual Studio Code npm-script Extension Remote Code Execution Vulnerability
+.NET Core 2.1,Release Notes,11565,CVE-2021-26701,.NET Core Remote Code Execution Vulnerability
+Microsoft Teams for iOS,Release Notes,11858,CVE-2021-24114,Microsoft Teams iOS Information Disclosure Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4493223,10505,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4493223,10505,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-1726,Microsoft SharePoint Spoofing Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-1727,Windows Installer Elevation of Privilege Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 7,4571787,11792,CVE-2021-1730,Microsoft Exchange Server Spoofing Vulnerability
+Microsoft Exchange Server 2019 Cumulative Update 7,4571787,11792,CVE-2021-1730,Microsoft Exchange Server Spoofing Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 18,4571788,11793,CVE-2021-1730,Microsoft Exchange Server Spoofing Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 18,4571788,11793,CVE-2021-1730,Microsoft Exchange Server Spoofing Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4493223,10505,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4493223,10505,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-24066,Microsoft SharePoint Remote Code Execution Vulnerability
+Microsoft Office Web Apps Server 2013 Service Pack 1,4493204,10611,CVE-2021-24067,Microsoft Excel Remote Code Execution Vulnerability
+Office Online Server,4493192,10836,CVE-2021-24067,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2021-24067,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for Mac,Release Notes,11575,CVE-2021-24067,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2016 (32-bit edition),4493196,10739,CVE-2021-24067,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4493222,10489,CVE-2021-24067,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4493211,10656,CVE-2021-24067,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office Web Apps Server 2013 Service Pack 1,4493204,10611,CVE-2021-24068,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4493222,10489,CVE-2021-24068,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4493211,10656,CVE-2021-24068,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office Web Apps Server 2013 Service Pack 1,4493204,10611,CVE-2021-24069,Microsoft Excel Remote Code Execution Vulnerability
+Office Online Server,4493192,10836,CVE-2021-24069,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2021-24069,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for Mac,Release Notes,11575,CVE-2021-24069,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2016 (32-bit edition),4493196,10739,CVE-2021-24069,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4493222,10489,CVE-2021-24069,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4493211,10656,CVE-2021-24069,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office Web Apps Server 2013 Service Pack 1,4493204,10611,CVE-2021-24070,Microsoft Excel Remote Code Execution Vulnerability
+Office Online Server,4493192,10836,CVE-2021-24070,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2019 for 32-bit editions,Click to Run,11573,CVE-2021-24070,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2016 (32-bit edition),4493196,10739,CVE-2021-24070,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4493222,10489,CVE-2021-24070,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4493211,10656,CVE-2021-24070,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4493223,10505,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Foundation 2010 Service Pack 2,4493223,10505,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-24071,Microsoft SharePoint Information Disclosure Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-24072,Microsoft SharePoint Server Remote Code Execution Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4493195,10950,CVE-2021-24072,Microsoft SharePoint Server Remote Code Execution Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-24072,Microsoft SharePoint Server Remote Code Execution Vulnerability
+Microsoft SharePoint Server 2019,4493194,11585,CVE-2021-24072,Microsoft SharePoint Server Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-24072,Microsoft SharePoint Server Remote Code Execution Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4493210,10612,CVE-2021-24072,Microsoft SharePoint Server Remote Code Execution Vulnerability
+Skype for Business Server 2015 CU 8,5000688,11613,CVE-2021-24073,Skype for Business and Lync Spoofing Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24074,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24075,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24075,Windows Network File System Denial of Service Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4601354,11498,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 1809 for x64-based Systems,4601345,11569,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 1809 for x64-based Systems,4601345,11569,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 1909 for x64-based Systems,4601315,11713,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 1909 for x64-based Systems,4601315,11713,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,4601331,10735,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4601318,10853,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4601318,10853,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,4601384,10482,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,4601384,10482,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,4601349,10482,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,4601349,10482,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24076,Microsoft Windows VMSwitch Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24077,Windows Fax Service Remote Code Execution Vulnerability
+Windows Server 2019,4601345,11571,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2019,4601345,11571,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server, version 1909 (Server Core installation),4601315,11715,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server, version 1909 (Server Core installation),4601315,11715,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server, version 2004 (Server Core installation),4601319,11769,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server, version 2004 (Server Core installation),4601319,11769,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2016,4601318,10816,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2016,4601318,10816,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4601347,10051,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4601347,10051,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4601363,10051,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4601363,10051,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012 R2,4601384,10483,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012 R2,4601384,10483,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012 R2,4601349,10483,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows Server 2012 R2,4601349,10483,CVE-2021-24078,Windows DNS Server Remote Code Execution Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24079,Windows Backup Engine Information Disclosure Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 20H2 for x64-based Systems,4601319,11800,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24080,Windows Trust Verification API Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 1909 for x64-based Systems,4601315,11713,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 1909 for x64-based Systems,4601315,11713,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24081,Microsoft Windows Codecs Library Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24082,Microsoft.PowerShell.Utility Module WDAC Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24083,Windows Address Book Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24084,Windows Mobile Device Management Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24084,Windows Mobile Device Management Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24084,Windows Mobile Device Management Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24084,Windows Mobile Device Management Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24084,Windows Mobile Device Management Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24084,Windows Mobile Device Management Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24086,Windows TCP/IP Denial of Service Vulnerability
+Windows Server, version 20H2 (Server Core Installation),4601319,11803,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server, version 20H2 (Server Core Installation),4601319,11803,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24088,Windows Local Spooler Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24091,Windows Camera Codec Pack Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24094,Windows TCP/IP Remote Code Execution Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24098,Windows Console Driver Denial of Service Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24098,Windows Console Driver Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24098,Windows Console Driver Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24098,Windows Console Driver Denial of Service Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24098,Windows Console Driver Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24098,Windows Console Driver Denial of Service Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24098,Windows Console Driver Denial of Service Vulnerability
+Skype for Business Server 2019  CU2,5000675,11722,CVE-2021-24099,Skype for Business and Lync Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24102,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4601331,10729,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4601318,10852,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601347,10047,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4601363,10047,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601384,10481,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4601349,10481,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601360,9312,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4601366,9312,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601348,10378,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows Server 2012,4601357,10378,CVE-2021-24103,Windows Event Tracing Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4601354,11497,CVE-2021-24106,Windows DirectX Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24106,Windows DirectX Information Disclosure Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4601345,11568,CVE-2021-24106,Windows DirectX Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24106,Windows DirectX Information Disclosure Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4601315,11712,CVE-2021-24106,Windows DirectX Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24106,Windows DirectX Information Disclosure Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4601319,11766,CVE-2021-24106,Windows DirectX Information Disclosure Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2012,4603003,11529-10378,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2012,4603003,11529-10378,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2012,4602959,11529-10378,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4603002,11529-10049,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4603002,11529-10049,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4602958,11529-10049,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4602958,11529-10049,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 1809 for 32-bit Systems,4601887,11650-11568,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 1809 for 32-bit Systems,4601887,11650-11568,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows 8.1 for x64-based systems,4603004,11529-10482,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows 8.1 for x64-based systems,4603004,11529-10482,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7/4.7.1/4.7.2 on Windows 8.1 for x64-based systems,4602960,11529-10482,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 1803 for 32-bit Systems,4601054,11650-11497,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 1803 for 32-bit Systems,4601054,11650-11497,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows Server 2016  (Server Core installation),4601051,11650-10855,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows Server 2016  (Server Core installation),4601051,11650-10855,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6 on Windows Server 2008 for 32-bit Systems Service Pack 2,4603005,10728-9312,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6 on Windows Server 2008 for 32-bit Systems Service Pack 2,4603005,10728-9312,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6 on Windows Server 2008 for 32-bit Systems Service Pack 2,4602961,10728-9312,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6 on Windows Server 2008 for 32-bit Systems Service Pack 2,4602961,10728-9312,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 20H2 for 32-bit Systems,4601050,11650-11801,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 20H2 for 32-bit Systems,4601050,11650-11801,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows 10 Version 1607 for 32-bit Systems,4601318,11863-10852,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows 10 Version 1607 for 32-bit Systems,4601318,11863-10852,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.7.2 on Windows 10 Version 1803 for x64-based Systems,4601354,11862-11498,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 1909 for x64-based Systems,4601056,11650-11713,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Microsoft .NET Framework 4.8 on Windows 10 Version 1909 for x64-based Systems,4601056,11650-11713,CVE-2021-24111,.NET Framework Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4577032,11497,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4570333,11568,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 1809 for 32-bit Systems,4570333,11568,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4574727,11712,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 1909 for 32-bit Systems,4574727,11712,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4571756,11766,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 2004 for 32-bit Systems,4571756,11766,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,4577049,10729,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4577015,10852,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4577015,10852,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 8.1 for 32-bit systems,4577066,10481,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 8.1 for 32-bit systems,4577066,10481,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 8.1 for 32-bit systems,4577071,10481,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows 8.1 for 32-bit systems,4577071,10481,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows Server 2012,4577038,10378,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows Server 2012,4577038,10378,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows Server 2012,4577048,10378,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Windows Server 2012,4577048,10378,CVE-2020-17162,Microsoft Windows Security Feature Bypass Vulnerability
+Microsoft Edge (Chromium-based),Release Notes,11655,CVE-2021-24113,Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability

@@ -1,0 +1,798 @@
+Microsoft Exchange Server 2016,4099852,11526,ADV180010,June 2018 Oracle Outside In Library Security Update
+Microsoft Exchange Server 2010 Service Pack 3,4295699,10476,ADV180010,June 2018 Oracle Outside In Library Security Update
+Microsoft Exchange Server 2013,4099855,10431,ADV180010,June 2018 Oracle Outside In Library Security Update
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8175,WEBDAV Denial of Service Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8175,WEBDAV Denial of Service Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8175,WEBDAV Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8175,WEBDAV Denial of Service Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8175,WEBDAV Denial of Service Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8175,WEBDAV Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8140,Cortana Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8140,Cortana Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8140,Cortana Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8140,Cortana Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8140,Cortana Elevation of Privilege Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8140,Cortana Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8201,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8205,Windows Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4234459,9312,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),4234459,10287,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,4234459,9311,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,4234459,9318,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),4234459,9344,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8207,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8208,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8209,Windows Wireless Network Profile Information Disclosure Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-8210,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8211,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8212,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8213,Windows Remote Code Execution Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8214,Windows Desktop Bridge Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8215,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8216,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8217,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8218,Windows Hyper-V Denial of Service Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8218,Windows Hyper-V Denial of Service Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8219,Hypervisor Code Integrity Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8221,Device Guard Code Integrity Policy Security Feature Bypass Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4230467,9312,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),4230467,10287,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,4230467,9311,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,4230467,9318,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),4230467,9344,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-8224,Windows Kernel Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4230467,9312,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),4230467,10287,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,4230467,9311,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,4230467,9318,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),4230467,9344,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8225,Windows DNSAPI Remote Code Execution Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8226,HTTP.sys Denial of Service Vulnerability
+ChakraCore,Commit,11447,CVE-2018-8227,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for 32-bit Systems,4284874,10724-10951,CVE-2018-8227,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for x64-based Systems,4284874,10724-10952,CVE-2018-8227,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4284835,10724-11497,CVE-2018-8227,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for x64-based Systems,4284835,10724-11498,CVE-2018-8227,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for 32-bit Systems,4284819,10724-11453,CVE-2018-8227,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for x64-based Systems,4284819,10724-11454,CVE-2018-8227,Chakra Scripting Engine Memory Corruption Vulnerability
+ChakraCore,Commit,11447,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for 32-bit Systems,4284874,10724-10951,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for x64-based Systems,4284874,10724-10952,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4284835,10724-11497,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for x64-based Systems,4284835,10724-11498,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for 32-bit Systems,4284819,10724-11453,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for x64-based Systems,4284819,10724-11454,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,4284860,10724-10729,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,4284860,10724-10735,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4284880,10724-10852,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,4284880,10724-10853,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows Server 2016,4284880,10724-10816,CVE-2018-8229,Chakra Scripting Engine Memory Corruption Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8231,HTTP Protocol Stack Remote Code Execution Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8233,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8233,Win32k Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8233,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8239,Windows GDI Information Disclosure Vulnerability
+ChakraCore,Commit,11447,CVE-2018-8243,Scripting Engine Memory Corruption Vulnerability
+Microsoft Outlook 2016 (32-bit edition),4022160,10765,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Outlook 2016 (64-bit edition),4022160,10766,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Office 2016 Click-to-Run (C2R) for 32-bit editions,Click to Run,10905,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Office 2016 Click-to-Run (C2R) for 64-bit editions,Click to Run,10906,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Outlook 2013 Service Pack 1 (32-bit editions),4022169,10810,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Outlook 2013 Service Pack 1 (64-bit editions),4022169,10811,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Outlook 2010 Service Pack 2 (32-bit editions),4022205,10527,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Outlook 2010 Service Pack 2 (64-bit editions),4022205,10528,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Outlook 2013 RT Service Pack 1,4022169,10407,CVE-2018-8244,Microsoft Outlook Elevation of Privilege Vulnerability
+Microsoft Publisher 2010 Service Pack 2 (32-bit editions),4011186,10503,CVE-2018-8245,Microsoft Publisher Remote Code Execution Vulnerability
+Microsoft Publisher 2010 Service Pack 2 (64-bit editions),4011186,10504,CVE-2018-8245,Microsoft Publisher Remote Code Execution Vulnerability
+Microsoft Excel 2016 (32-bit edition),4022174,10739,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Excel 2016 (64-bit edition),4022174,10740,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Office 2016 Click-to-Run (C2R) for 32-bit editions,Click to Run,10905,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Office 2016 Click-to-Run (C2R) for 64-bit editions,Click to Run,10906,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),4022209,10489,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),4022209,10490,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,4022191,10656,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Excel 2013 Service Pack 1 (32-bit editions),4022191,10654,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Excel 2013 Service Pack 1 (64-bit editions),4022191,10655,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),4022199,10521,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Office 2010 Service Pack 2 (64-bit editions),4022199,10522,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,4022196,4497,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Excel Viewer,4022151,10903,CVE-2018-8246,Microsoft Excel Information Disclosure Vulnerability
+Microsoft Office Online Server 2016,4011026,10748,CVE-2018-8247,Microsoft Office Elevation of Privilege Vulnerability
+Microsoft Office Web Apps Server 2013 Service Pack 1,4022183,10611,CVE-2018-8247,Microsoft Office Elevation of Privilege Vulnerability
+Microsoft Office 2016 (32-bit edition),4022177,10753,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2016 (64-bit edition),4022177,10754,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2016 Click-to-Run (C2R) for 32-bit editions,Click to Run,10905,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2016 Click-to-Run (C2R) for 64-bit editions,Click to Run,10906,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),4022199,10521,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2010 Service Pack 2 (64-bit editions),4022199,10522,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2013 RT Service Pack 1,4022182,10603,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2013 Service Pack 1 (32-bit editions),4022182,10601,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft Office 2013 Service Pack 1 (64-bit editions),4022182,10602,CVE-2018-8248,Microsoft Excel Remote Code Execution Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4022173,10950,CVE-2018-8252,Microsoft SharePoint Elevation of Privilege Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4022190,10612,CVE-2018-8252,Microsoft SharePoint Elevation of Privilege Vulnerability
+Microsoft Project Server 2010 Service Pack 2,4022210,10502,CVE-2018-8254,Microsoft SharePoint Elevation of Privilege Vulnerability
+Microsoft SharePoint Enterprise Server 2016,4022173,10950,CVE-2018-8254,Microsoft SharePoint Elevation of Privilege Vulnerability
+Microsoft SharePoint Foundation 2013 Service Pack 1,4022190,10612,CVE-2018-8254,Microsoft SharePoint Elevation of Privilege Vulnerability
+Adobe Flash Player on Windows 10 Version 1703 for 32-bit Systems,4287903,10384-10951,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1703 for x64-based Systems,4287903,10384-10952,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1803 for 32-bit Systems,4287903,10384-11497,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1803 for x64-based Systems,4287903,10384-11498,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1709 for 32-bit Systems,4287903,10384-11453,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1709 for x64-based Systems,4287903,10384-11454,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 for 32-bit Systems,4287903,10384-10729,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 for x64-based Systems,4287903,10384-10735,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1607 for 32-bit Systems,4287903,10384-10852,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1607 for x64-based Systems,4287903,10384-10853,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows Server 2016,4287903,10384-10816,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 8.1 for 32-bit systems,4287903,10384-10481,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows 8.1 for x64-based systems,4287903,10384-10482,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows RT 8.1,4287903,10384-10484,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows Server 2012,4287903,10384-10378,ADV180014,June 2018 Adobe Flash Security Update
+Adobe Flash Player on Windows Server 2012 R2,4287903,10384-10483,ADV180014,June 2018 Adobe Flash Security Update
+Windows 10 for x64-based Systems,4338829,10735,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows 10 for x64-based Systems,4345455,10735,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows 7 for 32-bit Systems Service Pack 1,4343900,10047,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows 7 for 32-bit Systems Service Pack 1,4343899,10047,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows 8.1 for x64-based systems,4338815,10482,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows 8.1 for x64-based systems,4338824,10482,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows 8.1 for x64-based systems,4338831,10482,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows 8.1 for x64-based systems,4345424,10482,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 for 32-bit Systems Service Pack 2,4341832,9312,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),4341832,10287,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4338818,10051,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4338823,10051,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4338821,10051,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4345459,10051,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4338818,10049,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4338823,10049,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4338821,10049,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4345459,10049,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012,4338830,10378,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012,4338820,10378,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012,4338816,10378,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012,4345425,10378,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 (Server Core installation),4338830,10379,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 (Server Core installation),4338820,10379,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 (Server Core installation),4338816,10379,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 (Server Core installation),4345425,10379,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2,4338815,10483,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2,4338824,10483,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2,4338831,10483,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2,4345424,10483,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2 (Server Core installation),4338815,10543,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2 (Server Core installation),4338824,10543,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2 (Server Core installation),4338831,10543,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Windows Server 2012 R2 (Server Core installation),4345424,10543,ADV180016,Microsoft Guidance for Lazy FP State Restore
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for 32-bit Systems,4284874,10724-10951,CVE-2018-0871,Microsoft Edge Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for x64-based Systems,4284874,10724-10952,CVE-2018-0871,Microsoft Edge Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for 32-bit Systems,4284819,10724-11453,CVE-2018-0871,Microsoft Edge Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for x64-based Systems,4284819,10724-11454,CVE-2018-0871,Microsoft Edge Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4284835,10724-11497,CVE-2018-0871,Microsoft Edge Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for x64-based Systems,4284835,10724-11498,CVE-2018-0871,Microsoft Edge Information Disclosure Vulnerability
+Internet Explorer 10 on Windows Server 2012,4284855,10555-10378,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 10 on Windows Server 2012,4230450,10555-10378,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for 32-bit Systems Service Pack 2,4230450,10336-9312,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for x64-based Systems Service Pack 2,4230450,10336-9318,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1703 for 32-bit Systems,4284874,10486-10951,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1703 for x64-based Systems,4284874,10486-10952,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1709 for 32-bit Systems,4284819,10486-11453,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1709 for x64-based Systems,4284819,10486-11454,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,4284860,10486-10729,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,4284860,10486-10735,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,4284880,10486-10852,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,4284880,10486-10853,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2016,4284880,10486-10816,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4284826,10486-10047,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4230450,10486-10047,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,4284826,10486-10048,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,4230450,10486-10048,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4284815,10486-10481,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4230450,10486-10481,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,4284815,10486-10482,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,4230450,10486-10482,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,4284815,10486-10484,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10486-10051,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,4230450,10486-10051,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,4284815,10486-10483,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,4230450,10486-10483,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for 32-bit Systems,4284835,10486-11497,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for x64-based Systems,4284835,10486-11498,CVE-2018-0978,Internet Explorer Memory Corruption Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-0982,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4230467,9312,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),4230467,10287,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,4230467,9311,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,4230467,9318,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),4230467,9344,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-1036,NTFS Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4230467,9312,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),4230467,10287,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,4230467,9311,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,4230467,9318,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),4230467,9344,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-1040,Windows Code Integrity Module Denial of Service Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4284835,10724-11497,CVE-2018-8110,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for x64-based Systems,4284835,10724-11498,CVE-2018-8110,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for 32-bit Systems,4284819,10724-11453,CVE-2018-8111,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for x64-based Systems,4284819,10724-11454,CVE-2018-8111,Microsoft Edge Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1703 for 32-bit Systems,4284874,10486-10951,CVE-2018-8113,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1703 for x64-based Systems,4284874,10486-10952,CVE-2018-8113,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for 32-bit Systems,4284835,10486-11497,CVE-2018-8113,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for x64-based Systems,4284835,10486-11498,CVE-2018-8113,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1709 for 32-bit Systems,4284819,10486-11453,CVE-2018-8113,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1709 for x64-based Systems,4284819,10486-11454,CVE-2018-8113,Internet Explorer Security Feature Bypass Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8121,Windows Kernel Information Disclosure Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4284874,10952,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,4294413,9312,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),4294413,10287,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,4294413,9311,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,4294413,9318,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),4294413,9344,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8169,HIDParser Elevation of Privilege Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for 32-bit Systems,4284874,10724-10951,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for x64-based Systems,4284874,10724-10952,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4284835,10724-11497,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for x64-based Systems,4284835,10724-11498,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for 32-bit Systems,4284819,10724-11453,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for x64-based Systems,4284819,10724-11454,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,4284860,10724-10729,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,4284860,10724-10735,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4284880,10724-10852,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,4284880,10724-10853,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows Server 2016,4284880,10724-10816,CVE-2018-8234,Microsoft Edge based on Edge HTML Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for 32-bit Systems,4284874,10724-10951,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for x64-based Systems,4284874,10724-10952,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for 32-bit Systems,4284819,10724-11453,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for x64-based Systems,4284819,10724-11454,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,4284860,10724-10729,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,4284860,10724-10735,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4284880,10724-10852,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,4284880,10724-10853,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows Server 2016,4284880,10724-10816,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4284835,10724-11497,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for x64-based Systems,4284835,10724-11498,CVE-2018-8235,Microsoft Edge Security Feature Bypass Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for 32-bit Systems,4284874,10724-10951,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1703 for x64-based Systems,4284874,10724-10952,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for 32-bit Systems,4284835,10724-11497,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1803 for x64-based Systems,4284835,10724-11498,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for 32-bit Systems,4284819,10724-11453,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1709 for x64-based Systems,4284819,10724-11454,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,4284860,10724-10729,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,4284860,10724-10735,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,4284880,10724-10852,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,4284880,10724-10853,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows Server 2016,4284880,10724-10816,CVE-2018-8236,Microsoft Edge Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4284826,10486-10047,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4230450,10486-10047,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,4284826,10486-10048,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,4230450,10486-10048,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4284815,10486-10481,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4230450,10486-10481,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,4284815,10486-10482,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,4230450,10486-10482,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,4284815,10486-10484,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10486-10051,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,4230450,10486-10051,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,4284815,10486-10483,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,4230450,10486-10483,CVE-2018-8249,Internet Explorer Memory Corruption Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4284874,10951,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 Version 1803 for 32-bit Systems,4284835,11497,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 Version 1803 for x64-based Systems,4284835,11498,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server, version 1803  (Server Core Installation),4284835,11499,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 Version 1709 for 32-bit Systems,4284819,11453,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 Version 1709 for x64-based Systems,4284819,11454,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server, version 1709  (Server Core Installation),4284819,11466,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 for 32-bit Systems,4284860,10729,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 for x64-based Systems,4284860,10735,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,4284880,10852,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 10 Version 1607 for x64-based Systems,4284880,10853,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2016,4284880,10816,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2016  (Server Core installation),4284880,10855,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284826,10047,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,4284867,10047,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284826,10048,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,4284867,10048,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 8.1 for 32-bit systems,4284815,10481,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 8.1 for 32-bit systems,4284878,10481,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 8.1 for x64-based systems,4284815,10482,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows 8.1 for x64-based systems,4284878,10482,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows RT 8.1,4284815,10484,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284826,10050,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,4284867,10050,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10051,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284867,10051,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284826,10049,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),4284867,10049,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012,4284855,10378,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012,4284846,10378,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012 (Server Core installation),4284855,10379,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012 (Server Core installation),4284846,10379,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012 R2,4284815,10483,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012 R2,4284878,10483,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284815,10543,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Windows Server 2012 R2 (Server Core installation),4284878,10543,CVE-2018-8251,Media Foundation Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for ARM64-based Systems,4532691,10486-11570,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for ARM64-based Systems,4532691,10486-11570,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2019,4532691,10486-11571,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2019,4532691,10486-11571,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4532691,10486-11568,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems,4532691,10486-11568,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for x64-based Systems,4532691,10486-11569,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1809 for x64-based Systems,4532691,10486-11569,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for 32-bit Systems,4284835,10486-11497,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1803 for x64-based Systems,4284835,10486-11498,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 10 on Windows Server 2012,4284855,10555-10378,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 10 on Windows Server 2012,4230450,10555-10378,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for 32-bit Systems Service Pack 2,4230450,10336-9312,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for x64-based Systems Service Pack 2,4230450,10336-9318,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1703 for 32-bit Systems,4284874,10486-10951,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1703 for x64-based Systems,4284874,10486-10952,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1709 for 32-bit Systems,4284819,10486-11453,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1709 for x64-based Systems,4284819,10486-11454,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,4284860,10486-10729,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,4284860,10486-10735,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,4284880,10486-10852,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,4284880,10486-10853,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2016,4284880,10486-10816,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4284826,10486-10047,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,4230450,10486-10047,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,4284826,10486-10048,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,4230450,10486-10048,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4284815,10486-10481,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,4230450,10486-10481,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,4284815,10486-10482,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,4230450,10486-10482,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,4284815,10486-10484,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,4284826,10486-10051,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,4230450,10486-10051,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,4284815,10486-10483,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,4230450,10486-10483,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems,4532693,10486-11712,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for x64-based Systems,4532693,10486-11713,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1909 for ARM64-based Systems,4532693,10486-11714,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1903 for 32-bit Systems,4532693,10486-11644,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1903 for x64-based Systems,4532693,10486-11645,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1903 for ARM64-based Systems,4532693,10486-11646,CVE-2018-8267,Scripting Engine Memory Corruption Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),3115197,10521,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office 2010 Service Pack 2 (32-bit editions),3115248,10521,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office 2010 Service Pack 2 (64-bit editions),3115197,10522,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office 2010 Service Pack 2 (64-bit editions),3115248,10522,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office 2013 RT Service Pack 1,4018387,10603,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office 2013 Service Pack 1 (32-bit editions),4018387,10601,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office 2013 Service Pack 1 (64-bit editions),4018387,10602,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office Web Apps Server 2010 Service Pack 2,4022203,10649,ADV180015,Microsoft Office Defense in Depth Update
+Microsoft Office Web Apps Server 2013 Service Pack 1,4022183,10611,ADV180015,Microsoft Office Defense in Depth Update
+Excel Services on Microsoft SharePoint Enterprise Server 2013 Service Pack 1,4018391,9171-11099,ADV180015,Microsoft Office Defense in Depth Update
+Word Automation Services on Microsoft SharePoint Server 2010 Service Pack 2,4022197,9432-10495,ADV180015,Microsoft Office Defense in Depth Update
+Word Automation Services on Microsoft SharePoint Server 2013 Service Pack 1,4022179,9432-10607,ADV180015,Microsoft Office Defense in Depth Update

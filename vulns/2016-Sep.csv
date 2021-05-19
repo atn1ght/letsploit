@@ -1,0 +1,664 @@
+Microsoft Office 2013 Service Pack 1 (32-bit editions),Click to Run,10601,CVE-2016-0137,Microsoft APP-V Security Feature Bypass Vulnerability
+Microsoft Office 2013 Service Pack 1 (64-bit editions),Click to Run,10602,CVE-2016-0137,Microsoft APP-V Security Feature Bypass Vulnerability
+Microsoft Exchange Server 2013 Cumulative Update 12,3184736,10837,CVE-2016-0138,Microsoft Outlook Information Disclosure Vulnerability
+Microsoft Exchange Server 2013 Cumulative Update 13,3184736,10896,CVE-2016-0138,Microsoft Outlook Information Disclosure Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 1,3184736,10838,CVE-2016-0138,Microsoft Outlook Information Disclosure Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 2,3184736,10897,CVE-2016-0138,Microsoft Outlook Information Disclosure Vulnerability
+Microsoft Exchange Server 2010 Service Pack 3,3184728,10476,CVE-2016-0138,Microsoft Outlook Information Disclosure Vulnerability
+Microsoft Exchange Server 2013 Service Pack 1,3184736,10650,CVE-2016-0138,Microsoft Outlook Information Disclosure Vulnerability
+Microsoft Exchange Server 2007 Service Pack 3,3184711,10004,CVE-2016-0138,Microsoft Outlook Information Disclosure Vulnerability
+Microsoft Office 2013 Service Pack 1 (32-bit editions),3118268,10601,CVE-2016-0141,Microsoft Office Information Disclosure Vulnerability
+Microsoft Office 2013 Service Pack 1 (64-bit editions),3118268,10602,CVE-2016-0141,Microsoft Office Information Disclosure Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),3118309,10521,CVE-2016-0141,Microsoft Office Information Disclosure Vulnerability
+Microsoft Office 2010 Service Pack 2 (64-bit editions),3118309,10522,CVE-2016-0141,Microsoft Office Information Disclosure Vulnerability
+Microsoft Office 2007 Service Pack 3,3118300,10150,CVE-2016-0141,Microsoft Office Information Disclosure Vulnerability
+Microsoft Office 2016 (32-bit edition),3118292,10753,CVE-2016-0141,Microsoft Office Information Disclosure Vulnerability
+Microsoft Office 2016 (64-bit edition),3118292,10754,CVE-2016-0141,Microsoft Office Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3247,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3291,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 10 on Windows Server 2012,3185319,10555-10378,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3292,Internet Explorer Elevation of Privilege Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3294,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3294,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3294,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3294,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 10 on Windows Server 2012,3185319,10555-10378,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3295,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,3185319,10486-10047,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,3185319,10486-10048,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185319,10486-10051,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Vista x64 Edition Service Pack 2,3185319,10336-9316,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Vista Service Pack 2,3185319,10336-4393,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for 32-bit Systems Service Pack 2,3185319,10336-9312,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for x64-based Systems Service Pack 2,3185319,10336-9318,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 10 on Windows Server 2012,3185319,10555-10378,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3297,Microsoft Browser Memory Corruption Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3178539,10481,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3178539,10482,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows RT 8.1,3178539,10484,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3178539,10483,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3178539,10543,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3302,Windows Lock Screen Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for 32-bit Systems,4025342,10951,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1703 for x64-based Systems,4025342,10952,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3175024,10047,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3175024,10048,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3175024,10481,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3175024,10482,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows RT 8.1,3175024,10484,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3175024,9312,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3175024,10287,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3175024,9311,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3175024,9318,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3175024,9344,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3175024,10050,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3175024,10051,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3175024,10049,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012,3175024,10378,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),3175024,10379,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3175024,10483,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3175024,10543,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Vista Service Pack 2,3175024,4393,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows Vista x64 Edition Service Pack 2,3175024,9316,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3305,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3175024,10047,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3175024,10048,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3175024,10481,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3175024,10482,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows RT 8.1,3175024,10484,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3175024,9312,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3175024,10287,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3175024,9311,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3175024,9318,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3175024,9344,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3175024,10050,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3175024,10051,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3175024,10049,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012,3175024,10378,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),3175024,10379,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3175024,10483,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3175024,10543,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Vista Service Pack 2,3175024,4393,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows Vista x64 Edition Service Pack 2,3175024,9316,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3306,Windows Session Object Elevation of Privilege Vulnerability
+Internet Explorer 10 on Windows Server 2012,3185319,10555-10378,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,3185319,10486-10047,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,3185319,10486-10048,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185319,10486-10051,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Vista x64 Edition Service Pack 2,3185319,10336-9316,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Vista Service Pack 2,3185319,10336-4393,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for 32-bit Systems Service Pack 2,3185319,10336-9312,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 9 on Windows Server 2008 for x64-based Systems Service Pack 2,3185319,10336-9318,CVE-2016-3324,Internet Explorer Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3325,Internet Explorer Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3330,Microsoft Browser Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3330,Microsoft Browser Memory Corruption Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3344,Windows Secure Kernel Mode Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3344,Windows Secure Kernel Mode Information Disclosure Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3344,Windows Secure Kernel Mode Information Disclosure Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3344,Windows Secure Kernel Mode Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3177186,10047,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3177186,10048,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,3177186,10481,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 8.1 for x64-based systems,3177186,10482,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows RT 8.1,3177186,10484,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3177186,9312,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3177186,10287,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3177186,9311,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3177186,9318,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3177186,9344,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3177186,10050,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3177186,10051,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3177186,10049,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2012,3177186,10378,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2012 (Server Core installation),3177186,10379,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2012 R2,3177186,10483,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Server 2012 R2 (Server Core installation),3177186,10543,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Vista Service Pack 2,3177186,4393,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows Vista x64 Edition Service Pack 2,3177186,9316,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3345,Windows SMB Authenticated Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3346,Windows Permissions Enforcement Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3346,Windows Permissions Enforcement Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3346,Windows Permissions Enforcement Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3346,Windows Permissions Enforcement Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3346,Windows Permissions Enforcement Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3346,Windows Permissions Enforcement Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3184471,10049,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2012,3184471,10378,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2012 (Server Core installation),3184471,10379,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2012 R2,3184471,10483,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2012 R2 (Server Core installation),3184471,10543,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Vista Service Pack 2,3184471,4393,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Vista x64 Edition Service Pack 2,3184471,9316,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3184471,10047,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3184471,10048,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 8.1 for 32-bit systems,3184471,10481,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 8.1 for x64-based systems,3184471,10482,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows RT 8.1,3184471,10484,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3184471,9312,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3184471,10287,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3184471,9318,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3184471,9344,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3184471,10051,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3368,Windows Remote Code Execution Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3185911,10047,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3185911,10048,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3185911,10481,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3185911,10482,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows RT 8.1,3185911,10484,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3185911,9312,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3185911,10287,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3185911,9318,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3185911,9344,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3185911,10050,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185911,10051,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3185911,10049,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012,3185911,10378,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),3185911,10379,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3185911,10483,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3185911,10543,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Vista Service Pack 2,3185911,4393,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Vista x64 Edition Service Pack 2,3185911,9316,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3185911,9311,CVE-2016-3348,Win32k Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3185911,10481,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3185911,10482,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows RT 8.1,3185911,10484,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012,3185911,10378,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),3185911,10379,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3185911,10483,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3185911,10543,CVE-2016-3349,Win32k Elevation of Privilege Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3350,Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3350,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 10 on Windows Server 2012,3185319,10555-10378,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,3185319,10486-10047,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,3185319,10486-10048,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185319,10486-10051,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 9 on Windows Vista x64 Edition Service Pack 2,3185319,10336-9316,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 9 on Windows Vista Service Pack 2,3185319,10336-4393,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 9 on Windows Server 2008 for 32-bit Systems Service Pack 2,3185319,10336-9312,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Internet Explorer 9 on Windows Server 2008 for x64-based Systems Service Pack 2,3185319,10336-9318,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3351,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,3187754,10481,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,3187754,10482,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Windows RT 8.1,3187754,10484,CVE-2016-3352,Windows Information Disclosure Vulnerability
+Internet Explorer 10 on Windows Server 2012,3185319,10555-10378,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,3185319,10486-10047,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,3185319,10486-10048,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185319,10486-10051,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 9 on Windows Vista x64 Edition Service Pack 2,3185319,10336-9316,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 9 on Windows Vista Service Pack 2,3185319,10336-4393,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 9 on Windows Server 2008 for 32-bit Systems Service Pack 2,3185319,10336-9312,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Internet Explorer 9 on Windows Server 2008 for x64-based Systems Service Pack 2,3185319,10336-9318,CVE-2016-3353,Internet Explorer Security Feature Bypass Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3185911,10047,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3185911,10048,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 8.1 for 32-bit systems,3185911,10481,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,3185911,10482,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows RT 8.1,3185911,10484,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3185911,9312,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3185911,10287,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3185911,9311,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3185911,9318,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3185911,9344,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3185911,10050,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185911,10051,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3185911,10049,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2012,3185911,10378,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2012 (Server Core installation),3185911,10379,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2012 R2,3185911,10483,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Server 2012 R2 (Server Core installation),3185911,10543,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Vista Service Pack 2,3185911,4393,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows Vista x64 Edition Service Pack 2,3185911,9316,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3354,GDI+ Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3185911,10047,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3185911,10048,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3185911,10481,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3185911,10482,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows RT 8.1,3185911,10484,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3185911,9312,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3185911,10287,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3185911,9311,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3185911,9318,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3185911,9344,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3185911,10050,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185911,10051,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3185911,10049,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2012,3185911,10378,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),3185911,10379,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3185911,10483,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3185911,10543,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Vista Service Pack 2,3185911,4393,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows Vista x64 Edition Service Pack 2,3185911,9316,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3355,Windows GDI Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3356,GDI+ Remote Code Execution Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3356,GDI+ Remote Code Execution Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),2553432,10521,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2010 Service Pack 2 (32-bit editions),3118309,10521,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft SharePoint Server 2013 Service Pack 1,3054862,10607,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Word Viewer,3118297,1160,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2007 Service Pack 3,3118300,10150,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2010 Service Pack 2 (64-bit editions),3118309,10522,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2010 Service Pack 2 (64-bit editions),2553432,10522,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2013 RT Service Pack 1,3118268,10603,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2013 Service Pack 1 (32-bit editions),3118268,10601,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2013 Service Pack 1 (64-bit editions),3118268,10602,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2016 (32-bit edition),3118292,10753,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office 2016 (64-bit edition),3118292,10754,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Web Apps 2010 Service Pack 2,3115472,10525,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Web Apps 2013 Service Pack 1,3118270,10608,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Word 2016 for Mac,3186807,10670,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Word for Mac 2011,3186805,10025,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Excel Automation Services on Microsoft SharePoint Server 2013 Service Pack 1,3115169,10898-10607,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Word Automation Services on Microsoft SharePoint Server 2013 Service Pack 1,3115443,9432-10607,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Word Automation Services on Microsoft SharePoint Server 2010 Service Pack 2,3115466,9432-10495,CVE-2016-3357,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2007 Service Pack 3,3115459,10152,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),3118316,10489,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),3118316,10490,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,3118284,10656,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (32-bit editions),3118284,10654,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (64-bit editions),3118284,10655,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (32-bit edition),3118290,10739,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (64-bit edition),3118290,10740,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 for Mac,3186807,10672,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel Viewer 2007 Service Pack 3,3115463,10279,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Online Server 2016,3118299,10748,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,3115462,4497,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft SharePoint Server 2007 Service Pack 3 (32-bit editions),3115112,9171-10308,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft SharePoint Server 2007 Service Pack 3 (64-bit editions),3115112,9171-10307,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Excel Automation Services on Microsoft SharePoint Server 2013 Service Pack 1,3115169,10898-10607,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft Sharepoint Server 2010 Service Pack 2 Bad,3115119,9171-999008,CVE-2016-3358,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,3115462,4497,CVE-2016-3359,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2007 Service Pack 3,3115459,10152,CVE-2016-3359,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),3118316,10489,CVE-2016-3359,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),3118316,10490,CVE-2016-3359,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel Viewer 2007 Service Pack 3,3115463,10279,CVE-2016-3359,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint 2007 Service Pack 3,3114744,10157,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint 2010 Service Pack 2 (32-bit editions),3115467,10498,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint 2010 Service Pack 2 (64-bit editions),3115467,10499,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint 2013 RT Service Pack 1,3115487,10694,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint 2013 Service Pack 1 (32-bit editions),3115487,10692,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint 2016 for Mac,3186807,10673,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint Viewer,3054969,256,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,2597974,4497,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft SharePoint Server 2013 Service Pack 1,3054862,10607,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Web Apps 2010 Service Pack 2,3115472,10525,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Web Apps Server 2013 Service Pack 1,3118270,10611,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft PowerPoint 2013 Service Pack 1 (64-bit editions),3115487,10693,CVE-2016-3360,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),3118316,10489,CVE-2016-3361,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),3118316,10490,CVE-2016-3361,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2007 Service Pack 3,3115459,10152,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),3118316,10489,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),3118316,10490,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,3118284,10656,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (32-bit editions),3118284,10654,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (64-bit editions),3118284,10655,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (32-bit edition),3118290,10739,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (64-bit edition),3118290,10740,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel Viewer 2007 Service Pack 3,3115463,10279,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Online Server 2016,3118299,10748,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,3115462,4497,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft SharePoint Server 2007 Service Pack 3 (32-bit editions),3115112,9171-10308,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft SharePoint Server 2007 Service Pack 3 (64-bit editions),3115112,9171-10307,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft Sharepoint Server 2010 Service Pack 2 Bad,3115119,9171-999008,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Excel Automation Services on Microsoft SharePoint Server 2013 Service Pack 1,3115169,10898-10607,CVE-2016-3362,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2007 Service Pack 3,3115459,10152,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),3118316,10489,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),3118316,10490,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,3118284,10656,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (32-bit editions),3118284,10654,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (64-bit editions),3118284,10655,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (32-bit edition),3118290,10739,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (64-bit edition),3118290,10740,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel Viewer 2007 Service Pack 3,3115463,10279,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,3115462,4497,CVE-2016-3363,Microsoft Office Memory Corruption Vulnerability
+Microsoft Visio 2016 Click-to-Run (C2R) for 32-bit editions,Click to Run,10918,CVE-2016-3364,Microsoft Office Memory Corruption Vulnerability
+Microsoft Visio 2016 Click-to-Run (C2R) for 64-bit editions,Click to Run,10919,CVE-2016-3364,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2007 Service Pack 3,3115459,10152,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),3118316,10489,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),3118316,10490,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,3118284,10656,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (32-bit editions),3118284,10654,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (64-bit editions),3118284,10655,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (32-bit edition),3118290,10739,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (64-bit edition),3118290,10740,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel Viewer 2007 Service Pack 3,3115463,10279,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Online Server 2016,3118299,10748,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,3115462,4497,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft SharePoint Server 2007 Service Pack 3 (32-bit editions),3115112,9171-10308,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft SharePoint Server 2007 Service Pack 3 (64-bit editions),3115112,9171-10307,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Excel Services on Microsoft SharePoint Server 2010 Service Pack 2,3115119,9171-10495,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Excel Automation Services on Microsoft SharePoint Server 2013 Service Pack 1,3115169,10898-10607,CVE-2016-3365,Microsoft Office Memory Corruption Vulnerability
+Microsoft Outlook 2013 Service Pack 1 (32-bit editions),3118280,10810,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2013 Service Pack 1 (64-bit editions),3118280,10811,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2007 Service Pack 3,3118303,10156,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2010 Service Pack 2 (32-bit editions),3118313,10527,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2010 Service Pack 2 (64-bit editions),3118313,10528,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2013 RT Service Pack 1,3118280,10407,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2016 (32-bit edition),3118293,10765,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2016 (64-bit edition),3118293,10766,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Outlook 2016 for Mac,3186807,10768,CVE-2016-3366,Microsoft Outlook Spoofing Vulnerability
+Microsoft Silverlight 5 Developer Runtime when installed on Apple Mac OS (Intel-based),3182373,10450,CVE-2016-3367,Microsoft Silverlight Memory Corruption Vulnerability
+Microsoft Silverlight 5 Developer Runtime when installed on Microsoft Windows (32-bit),3182373,10453,CVE-2016-3367,Microsoft Silverlight Memory Corruption Vulnerability
+Microsoft Silverlight 5 Developer Runtime when installed on Microsoft Windows (x64-based),3182373,10452,CVE-2016-3367,Microsoft Silverlight Memory Corruption Vulnerability
+Microsoft Silverlight 5 when installed on Apple Mac OS (Intel-based),3182373,10100,CVE-2016-3367,Microsoft Silverlight Memory Corruption Vulnerability
+Microsoft Silverlight 5 when installed on Microsoft Windows (32-bit),3182373,10451,CVE-2016-3367,Microsoft Silverlight Memory Corruption Vulnerability
+Microsoft Silverlight 5 when installed on Microsoft Windows (x64-based),3182373,10099,CVE-2016-3367,Microsoft Silverlight Memory Corruption Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3369,Windows IPSec Denial of Service Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3369,Windows IPSec Denial of Service Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3369,Windows IPSec Denial of Service Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3369,Windows IPSec Denial of Service Vulnerability
+Windows 8.1 for 32-bit systems,3184943,10481,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,3184943,10482,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows Server 2012,3184943,10378,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows Server 2012 R2,3184943,10483,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows RT 8.1,3184943,10484,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3370,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3175024,10047,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3175024,10048,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3175024,10481,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3175024,10482,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows RT 8.1,3175024,10484,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3175024,9312,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3175024,10287,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3175024,9311,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3175024,9318,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3175024,9344,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3175024,10050,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3175024,10051,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3175024,10049,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2012,3175024,10378,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),3175024,10379,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3175024,10483,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3175024,10543,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Vista Service Pack 2,3175024,4393,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Vista x64 Edition Service Pack 2,3175024,9316,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3371,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3175024,9312,CVE-2016-3372,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3175024,10287,CVE-2016-3372,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3175024,9311,CVE-2016-3372,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3175024,9318,CVE-2016-3372,Windows Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3175024,9344,CVE-2016-3372,Windows Elevation of Privilege Vulnerability
+Windows Vista Service Pack 2,3175024,4393,CVE-2016-3372,Windows Elevation of Privilege Vulnerability
+Windows Vista x64 Edition Service Pack 2,3175024,9316,CVE-2016-3372,Windows Elevation of Privilege Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 7 for 32-bit Systems Service Pack 1,3175024,10047,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 7 for x64-based Systems Service Pack 1,3175024,10048,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3175024,10481,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 8.1 for x64-based systems,3175024,10482,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows RT 8.1,3175024,10484,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3175024,9312,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3175024,10287,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3175024,9311,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3175024,9318,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3175024,9344,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1,3175024,10050,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1,3175024,10051,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation),3175024,10049,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012,3175024,10378,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012 (Server Core installation),3175024,10379,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012 R2,3175024,10483,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Server 2012 R2 (Server Core installation),3175024,10543,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Vista Service Pack 2,3175024,4393,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows Vista x64 Edition Service Pack 2,3175024,9316,CVE-2016-3373,Windows Kernel Local Elevation of Privilege Vulnerability
+Windows 8.1 for 32-bit systems,3184943,10481,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows 8.1 for x64-based systems,3184943,10482,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows Server 2012,3184943,10378,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows Server 2012 R2,3184943,10483,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows RT 8.1,3184943,10484,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for 32-bit Systems,3185611,10724-10729,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 for x64-based Systems,3185611,10724-10735,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3374,Microsoft Browser Information Disclosure Vulnerability
+Windows Vista Service Pack 2,3184122,4393,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows Server 2008 for Itanium-Based Systems Service Pack 2,3184122,9311,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2,3184122,9312,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows Vista x64 Edition Service Pack 2,3184122,9316,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2,3184122,9318,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation),3184122,9344,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation),3184122,10287,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows RT 8.1,3184122,10484,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows 10 for 32-bit Systems,3185611,10729,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows 10 for x64-based Systems,3185611,10735,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows 10 Version 1511 for 32-bit Systems,3185614,10789,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows 10 Version 1511 for x64-based Systems,3185614,10788,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows 10 Version 1607 for 32-bit Systems,3189866,10852,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Windows 10 Version 1607 for x64-based Systems,3189866,10853,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 10 on Windows Server 2012,3185319,10555-10378,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for 32-bit systems,3185319,10486-10481,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 8.1 for x64-based systems,3185319,10486-10482,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2012 R2,3185319,10486-10483,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows RT 8.1,3185319,10486-10484,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for 32-bit Systems Service Pack 1,3185319,10486-10047,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 7 for x64-based Systems Service Pack 1,3185319,10486-10048,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows Server 2008 R2 for x64-based Systems Service Pack 1,3185319,10486-10051,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for 32-bit Systems,3185611,10486-10729,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 for x64-based Systems,3185611,10486-10735,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for 32-bit Systems,3185614,10486-10789,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1511 for x64-based Systems,3185614,10486-10788,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for 32-bit Systems,3189866,10486-10852,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Internet Explorer 11 on Windows 10 Version 1607 for x64-based Systems,3189866,10486-10853,CVE-2016-3375,Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for 32-bit Systems,3185614,10724-10789,CVE-2016-3377,Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1511 for x64-based Systems,3185614,10724-10788,CVE-2016-3377,Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for 32-bit Systems,3189866,10724-10852,CVE-2016-3377,Scripting Engine Memory Corruption Vulnerability
+Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1607 for x64-based Systems,3189866,10724-10853,CVE-2016-3377,Scripting Engine Memory Corruption Vulnerability
+Microsoft Exchange Server 2013 Cumulative Update 12,3184736,10837,CVE-2016-3378,Microsoft Exchange Open Redirect Vulnerability
+Microsoft Exchange Server 2013 Cumulative Update 13,3184736,10896,CVE-2016-3378,Microsoft Exchange Open Redirect Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 1,3184736,10838,CVE-2016-3378,Microsoft Exchange Open Redirect Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 2,3184736,10897,CVE-2016-3378,Microsoft Exchange Open Redirect Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 1,3184736,10838,CVE-2016-3379,Microsoft Exchange Elevation of Privilege Vulnerability
+Microsoft Exchange Server 2016 Cumulative Update 2,3184736,10897,CVE-2016-3379,Microsoft Exchange Elevation of Privilege Vulnerability
+Microsoft Excel 2007 Service Pack 3,3115459,10152,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (32-bit editions),3118316,10489,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2010 Service Pack 2 (64-bit editions),3118316,10490,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 RT Service Pack 1,3118284,10656,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (32-bit editions),3118284,10654,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2013 Service Pack 1 (64-bit editions),3118284,10655,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (32-bit edition),3118290,10739,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel 2016 (64-bit edition),3118290,10740,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Excel Viewer 2007 Service Pack 3,3115463,10279,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Microsoft Office Compatibility Pack Service Pack 3,3115462,4497,CVE-2016-3381,Microsoft Office Memory Corruption Vulnerability
+Adobe Flash Player on Windows Server 2012,3188128,10384-10378,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 8.1 for 32-bit systems,3188128,10384-10481,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 8.1 for x64-based systems,3188128,10384-10482,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows Server 2012 R2,3188128,10384-10483,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows RT 8.1,3188128,10384-10484,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 for 32-bit Systems,3188128,10384-10729,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 for x64-based Systems,3188128,10384-10735,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1511 for 32-bit Systems,3188128,10384-10789,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1511 for x64-based Systems,3188128,10384-10788,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1607 for 32-bit Systems,3188128,10384-10852,ADV160005,September 2016 Adobe Flash Security Update
+Adobe Flash Player on Windows 10 Version 1607 for x64-based Systems,3188128,10384-10853,ADV160005,September 2016 Adobe Flash Security Update
+Microsoft Exchange Server 2007 Service Pack 3,3184711,10004,ADV160006,Oracle Outside In Vulnerabilities
+Microsoft Exchange Server 2010 Service Pack 3,3184728,10476,ADV160006,Oracle Outside In Vulnerabilities
+Microsoft Exchange Server 2013 Service Pack 1,3184736,10650,ADV160006,Oracle Outside In Vulnerabilities
+Microsoft Exchange Server 2013 Cumulative Update 13,3184736,10896,ADV160006,Oracle Outside In Vulnerabilities
+Microsoft Exchange Server 2013 Cumulative Update 12,3184736,10837,ADV160006,Oracle Outside In Vulnerabilities
+Microsoft Exchange Server 2016 Cumulative Update 1,3184736,10838,ADV160006,Oracle Outside In Vulnerabilities
+Microsoft Exchange Server 2016 Cumulative Update 2,3184736,10897,ADV160006,Oracle Outside In Vulnerabilities
