@@ -7,6 +7,8 @@ Inspired by following projects
 2) rasta-mouse's WATSON [https://github.com/rasta-mouse/Watson](https://github.com/rasta-mouse/Watson)
 3) rasta-mouse's SHERLOCK [https://github.com/rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock)
 
+Expect to find dirty code and some bug, this is some of first version ;)
+
 ## Installation
 
 Some pip packages required. Look at letsploit imports.
